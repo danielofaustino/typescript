@@ -1,4 +1,4 @@
-# typescript
+# Typescript
 
 The Base of Typescript 
 
